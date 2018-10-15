@@ -1,0 +1,108 @@
+
+
+/* Screens Resolution : 992px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 1200px) {
+
+	.about-section{ text-align: center; }
+
+	.counter{ display: inline-block; }
+	
+	.counter .desc{ text-align: left; }
+
+	#map { max-height: 350px;}
+
+	.intro-section { background-position: center; }
+
+	.navbar-brand-font { font-size: 20px!important;}
+}
+
+/* Screens Resolution : 992px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 992px) {
+	
+	#map { max-height: 350px;}
+}
+
+/* Screens Resolution : 767px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 767px) {
+	
+	p{ line-height: 1.4; }
+
+	h1{ font-size: 3em; }
+	h2{ font-size: 2em; }
+	h3{ font-size: 1.8em; }
+
+	#map { max-height: 350px;}
+
+	.section{ padding: 50px 0 0px; }
+
+	.section .heading{ margin-bottom: 30px; }
+
+	.intro .downlad-btn{ float: none; }
+
+	.navbar-brand-font { font-size: 20px!important;}
+	
+	.portfolio-section .portfolioFilter{ margin-top: 0px; margin-bottom: 20px; }
+	
+	.portfolio-section .p-item{ width: 50%; }
+	
+	.education-wrapper{ position: relative; overflow: hidden; text-align: center; }
+
+	.education-wrapper:after{ content:''; position: absolute; top: 8px; bottom: 0; left: 50%;
+		margin-left: -1px; width: 2px; background: #ccc; }
+
+	.education-wrapper .education{ width: 100%; margin-top: 30px; }
+	
+	.education-wrapper .education.left,
+	.education-wrapper .education.right{ float: none; padding: 0px; text-align: center; }
+
+	.education-wrapper:after,
+	.education-wrapper .education:after{ display: none; }
+	
+}
+
+/* Screens Resolution : 575px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 575px) {
+	
+	body{ font-size: 14px;  }
+
+	.portfolio-section .p-item{ width: 100%; }
+
+	.navbar-brand-font { font-size: 20px!important;}
+
+	#map { max-height: 350px;}
+	
+}
+
+/* Screens Resolution : 479px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 479px) {
+
+	#map { max-height: 350px;}
+
+}
+
+/* Screens Resolution : 359px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 359px) {
+	
+	#map { max-height: 350px;}
+
+}
+
+/* Screens Resolution : 290px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 290px) {
+
+	
+}
+
+/* Screens Resolution : 290px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 260px) {
+
+	
+}
