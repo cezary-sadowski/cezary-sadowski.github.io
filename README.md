@@ -1,2 +1,2 @@
-# cezary-sadowski.github.io
+# cezary-sadowski.github.io (obsolete resume!)
 Resume
